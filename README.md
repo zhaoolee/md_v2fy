@@ -1,0 +1,2 @@
+# md_v2fy
+用WordPressXMLRPCTools管理v2fy.com这个WordPress站
